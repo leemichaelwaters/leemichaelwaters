@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leemichaelwaters
 - 👀 I’m interested in science, engineering, and crossword puzzles
-- 🌱 I’m currently refreshing my data science skills from graduate school
-- 💞️ I’m looking to collaborate on machine learning and deep learning projects in multiple disciplines
+- 🌱 I’m currently working on my python chops
+- 💞️ I’m looking to collaborate on open-source projects
 - 📫 I'm best reached at [LinkedIn](https://www.linkedin.com/in/leemwaters/)
 
 <!---
